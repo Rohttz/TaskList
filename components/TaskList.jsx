@@ -62,7 +62,7 @@ export default function TaskList() {
 }
 
 const finishedTask = "darkseagreen";
-const pendingTask = "indianred";
+const pendingTask = "darkorange";
 const taskStatus = (task, pending, finished) =>
   task.done ? finished : pending;
 
