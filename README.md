@@ -1,4 +1,4 @@
-📝 Gerenciador de Tarefas - React Native
+#📝 Gerenciador de Tarefas - React Native
 
 Aplicativo desenvolvido em React Native para gerenciar tarefas, permitindo adicionar, concluir, remover e visualizar detalhes de cada tarefa.
 
@@ -56,7 +56,7 @@ cd gerenciador-tarefas
 Instale as dependências
 
 npm install
-# ou
+ ou
 yarn
 
 Execute o projeto
